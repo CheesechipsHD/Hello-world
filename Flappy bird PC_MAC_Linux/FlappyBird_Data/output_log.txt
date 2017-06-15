@@ -1,0 +1,42 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x126)
+    Vendor:   Intel
+    VRAM:     880 MB
+    Driver:   9.17.10.3040
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mlynam\Desktop\Summer game design 2017\Summer game design 2017\Summer game design 2017\Builds\Flappy bird PC_MAC_Linux\FlappyBird_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mlynam\Desktop\Summer game design 2017\Summer game design 2017\Summer game design 2017\Builds\Flappy bird PC_MAC_Linux\FlappyBird_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mlynam\Desktop\Summer game design 2017\Summer game design 2017\Summer game design 2017\Builds\Flappy bird PC_MAC_Linux\FlappyBird_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mlynam\Desktop\Summer game design 2017\Summer game design 2017\Summer game design 2017\Builds\Flappy bird PC_MAC_Linux\FlappyBird_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mlynam\Desktop\Summer game design 2017\Summer game design 2017\Summer game design 2017\Builds\Flappy bird PC_MAC_Linux\FlappyBird_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\mlynam\Desktop\Summer game design 2017\Summer game design 2017\Summer game design 2017\Builds\Flappy bird PC_MAC_Linux\FlappyBird_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\mlynam\Desktop\Summer game design 2017\Summer game design 2017\Summer game design 2017\Builds\Flappy bird PC_MAC_Linux\FlappyBird_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\mlynam\Desktop\Summer game design 2017\Summer game design 2017\Summer game design 2017\Builds\Flappy bird PC_MAC_Linux\FlappyBird_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\mlynam\Desktop\Summer game design 2017\Summer game design 2017\Summer game design 2017\Builds\Flappy bird PC_MAC_Linux\FlappyBird_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\mlynam\Desktop\Summer game design 2017\Summer game design 2017\Summer game design 2017\Builds\Flappy bird PC_MAC_Linux\FlappyBird_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+Platform assembly: C:\Users\mlynam\Desktop\Summer game design 2017\Summer game design 2017\Summer game design 2017\Builds\Flappy bird PC_MAC_Linux\FlappyBird_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\mlynam\Desktop\Summer game design 2017\Summer game design 2017\Summer game design 2017\Builds\Flappy bird PC_MAC_Linux\FlappyBird_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.313914 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.255597 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 493.
+Total: 0.329205 ms (FindLiveObjects: 0.040657 ms CreateObjectMapping: 0.016578 ms MarkObjects: 0.222628 ms  DeleteObjects: 0.048157 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.597393 ms
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 389.
+Total: 0.763805 ms (FindLiveObjects: 0.046183 ms CreateObjectMapping: 0.032367 ms MarkObjects: 0.330784 ms  DeleteObjects: 0.353679 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1cd8 -> priority: 1 
